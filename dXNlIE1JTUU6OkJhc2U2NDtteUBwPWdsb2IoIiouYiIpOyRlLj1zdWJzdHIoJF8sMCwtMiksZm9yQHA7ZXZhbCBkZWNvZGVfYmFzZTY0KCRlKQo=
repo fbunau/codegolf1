@@ -1,0 +1,1 @@
+use MIME::Base64;eval decode_base64($0)
